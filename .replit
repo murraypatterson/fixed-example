@@ -1,3 +1,4 @@
+language = "python3"
 run = "python3 fixed.py"
 #run = "python3 find.py search 'H(ä|a|ae)ndel' handel.txt"
 #run = "python3 find.py fullmatch 'b*(ab*ab*)*' generate-ab-6.txt strip"
