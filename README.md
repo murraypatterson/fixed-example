@@ -27,6 +27,6 @@ The same goes with other examples such as
 or even the commands involving "grep", since some of these basic unix
 tools are installed on the Shell as well, such as
 
-    grep -E "a." a0.txt
+    grep --color -E "a." a0.txt
 
 and many others.  Give it a try!
