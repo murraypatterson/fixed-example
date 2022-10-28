@@ -2,33 +2,31 @@
 
 This shows a fixed example for regexes in Python
 
-## Run it yourself
+## Run it on repl.it
 
 [![Run on Repl.it](https://repl.it/badge/github/murraypatterson/fixed-example)](https://repl.it/github/murraypatterson/fixed-example)
 
-Running the fixed example `fixed.py` (on the file `handel.txt`) can be
-done in "repl.it" by clicking on the above `run on repl.it` badge: it
-will load a "repl" where you can click the "run" button to see the
-result.
+You can click on the above badge to load a "repl" where you can then
+click on the "Run" button to see the result
 
-## Advanced usage
+You can then customize the behaviour by modifying the ".replit" file
+(this file defines what happens when the "Run" button is clicked) ---
+note that you need to "Show hidden files" to see the ".replit" file
 
-The precise command that is run when the "run" button is clicked is:
+Or you can simply run some examples directly in the "Shell".  For
+example, the current command that is run with the "Run" button is
+clicked is
 
-    python3 fixed.py
+  python3 find.py findall "a." a0.txt
 
-The behavior of the "run" button is dictated by what is in the
-`.replit` file.  This can be customized by changing its contents to,
-_e.g._:
+but one could simply type this in the Shell and get the same answer.
+The same goes with other examples such as
 
-    python3 find.py search 'H(ä|a|ae)ndel' handel.txt
+  python3 split.py a0.txt | python3 find.py fullmatch "[a-z]+" -
 
-by uncommenting the second option in the `.replit` file (and
-commenting out the first line).  Notice how the result is the same.
-Now for something completely different, try:
+or even the commands involving "grep", since some of these basic unix
+tools are installed on the Shell as well, such as
 
-    python3 find.py fullmatch 'b*(ab*ab*)*' generate-ab-6.txt strip
+  grep -E "a." a0.txt
 
-to see which strings in the Kleene closure of alphabet `{a,b}` (up to
-strings of length, but not including, 6) are described by regex
-`b*(ab*ab*)*`.  Try your own examples !
+and many others.  Give it a try!
