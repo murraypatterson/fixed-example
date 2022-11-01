@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 find.py findall 'a.' a0.txt"
+run = "bash run_examples.bash"
