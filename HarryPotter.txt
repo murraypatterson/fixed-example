@@ -144,7 +144,7 @@ Professor McGonagall shot a sharp look at Dumbledore and said, "The owls are not
 
 It seemed that Professor McGonagall had reached the point she was most anxious to discuss, the real reason she had been waiting on a cold, hard wall all day, for neither as a cat nor as a woman had she fixed Dumbledore with such a piercing stare as she did now. It was plain that whatever "everyone" was saying, she was not going to believe it until Dumbledore told her it was true. Dumbledore, however, was choosing another lemon drop and did not answer. 
 
-"What they're saying," she pressed on, "is that last night Voldemort turned up in Godric's Hollow. He went to find the Potters. The rumor is that Lily and James Potter are -- are -- that they're -- dead. “ 
+"What they're saying," she pressed on, "is that last night Voldemort turned up in Godric's Hollow. He went to find the Potters. The rumor is that Lily and James Potter are -- are -- that they're -- dead. 
 
 Dumbledore bowed his head. Professor McGonagall gasped. 
 
@@ -584,7 +584,7 @@ Harry sighed and stretched out on the bed. Yesterday he'd have given anything to
 
 Next morning at breakfast, everyone was rather quiet. Dudley was in shock. He'd screamed, whacked his father with his Smelting stick, been sick on purpose, kicked his mother, and thrown his tortoise through the greenhouse roof, and he still didn't have his room back. Harry was thinking about this time yesterday and bitterly wishing he'd opened the letter in the hall. Uncle Vernon and Aunt Petunia kept looking at each other darkly. 
 
-When the mail arrived, Uncle Vernon, who seemed to be trying to be nice to Harry, made Dudley go and get it. They heard him banging things with his Smelting stick all the way down the hall. Then he shouted, "There's another one! 'Mr. H. Potter, The Smallest Bedroom, 4 Privet Drive --'“ 
+When the mail arrived, Uncle Vernon, who seemed to be trying to be nice to Harry, made Dudley go and get it. They heard him banging things with his Smelting stick all the way down the hall. Then he shouted, "There's another one! 'Mr. H. Potter, The Smallest Bedroom, 4 Privet Drive --' 
 
 With a strangled cry, Uncle Vernon leapt from his seat and ran down the hall, Harry right behind him. Uncle Vernon had to wrestle Dudley to the ground to get the letter from him, which was made difficult by the fact that Harry had grabbed Uncle Vernon around the neck from behind. After a minute of confused fighting, in which everyone got hit a lot by the Smelting stick, Uncle Vernon straightened up, gasping for breath, with Harry's letter clutched in his hand. 
 
@@ -656,7 +656,7 @@ Wouldn't it be better just to go home, dear?" Aunt Petunia suggested timidly, ho
 
 It started to rain. Great drops beat on the roof of the car. Dud ley sniveled. 
 
-"It's Monday," he told his mother. "The Great Humberto's on tonight. I want to stay somewhere with a television. “ 
+"It's Monday," he told his mother. "The Great Humberto's on tonight. I want to stay somewhere with a television. 
 
 Monday. This reminded Harry of something. If it was Monday -- and you could usually count on Dudley to know the days the week, because of television -- then tomorrow, Tuesday, was Harry's eleventh birthday. Of course, his birthdays were never exactly fun -- last year, the Dursleys had given him a coat hanger and a pair of Uncle Vernon's old socks. 
 
@@ -712,7 +712,7 @@ There was a crash behind them and Uncle Vernon came skidding into the room. He w
 
 "Who's there?" he shouted. "I warn you -- I'm armed!" 
 
-There was a pause. Then – 
+There was a pause. Then 
 
 SMASH! 
 
@@ -890,7 +890,7 @@ He threw a dirty look at the Dursleys.
 
 He sat down, stared into the fire for a few seconds, and then said, "It begins, I suppose, with -- with a person called -- but it's incredible yeh don't know his name, everyone in our world knows --" 
 
-"Who? “ 
+"Who? 
 
 "Well -- I don' like sayin' the name if I can help it. No one does." 
 
@@ -930,7 +930,7 @@ Hagrid was watching him sadly.
 
 "Now, you listen here, boy," he snarled, "I accept there's something strange about you, probably nothing a good beating wouldn't have cured -- and as for all this about your parents, well, they were weirdos, no denying it, and the world's better off without them in my opinion -- asked for all they got, getting mixed up with these wizarding types -- just what I expected, always knew they'd come to a sticky end --" 
 
-But at that moment, Hagrid leapt from the sofa and drew a battered pink umbrella from inside his coat. Pointing this at Uncle Vernon like a sword, he said, "I'm warning you, Dursley -I'm warning you -- one more word... “ 
+But at that moment, Hagrid leapt from the sofa and drew a battered pink umbrella from inside his coat. Pointing this at Uncle Vernon like a sword, he said, "I'm warning you, Dursley -I'm warning you -- one more word... 
 
 In danger of being speared on the end of an umbrella by a bearded giant, Uncle Vernon's courage failed again; he flattened himself against the wall and fell silent. 
 
@@ -1300,7 +1300,7 @@ One wild cart ride later they stood blinking in the sunlight outside Gringotts. 
 
 Madam Malkin was a squat, smiling witch dressed all in mauve. 
 
-"Hogwarts, clear?" she said, when Harry started to speak. "Got the lot here -- another young man being fitted up just now, in fact. “ 
+"Hogwarts, clear?" she said, when Harry started to speak. "Got the lot here -- another young man being fitted up just now, in fact. 
 
 In the back of the shop, a boy with a pale, pointed face was standing on a footstool while a second witch pinned up his long black robes. Madam Malkin stood Harry on a stool next to him) slipped a long robe over his head, and began to pin it to the right length. 
 
@@ -1480,7 +1480,7 @@ Harry tried. And tried. He had no idea what Mr. Ollivander was waiting for. The 
 
 "Tricky customer, eh? Not to worry, we'll find the perfect match here somewhere -- I wonder, now - - yes, why not -- unusual combination -- holly and phoenix feather, eleven inches, nice and supple." 
 
-Harry took the wand. He felt a sudden warmth in his fingers. He raised the wand above his head, brought it swishing down through the dusty air and a stream of red and gold sparks shot from the end like a firework, throwing dancing spots of light on to the walls. Hagrid whooped and clapped and Mr. Ollivander cried, "Oh, bravo! Yes, indeed, oh, very good. Well, well, well... how curious... how very curious... “ 
+Harry took the wand. He felt a sudden warmth in his fingers. He raised the wand above his head, brought it swishing down through the dusty air and a stream of red and gold sparks shot from the end like a firework, throwing dancing spots of light on to the walls. Hagrid whooped and clapped and Mr. Ollivander cried, "Oh, bravo! Yes, indeed, oh, very good. Well, well, well... how curious... how very curious... 
 
 He put Harry's wand back into its box and wrapped it in brown paper, still muttering, "Curious... curious.. 
 
@@ -1602,7 +1602,7 @@ Heart hammering, Harry pushed his cart after them. They stopped and so did he, j
 
 "Now, what's the platform number?" said the boys' mother. 
 
-"Nine and three-quarters!" piped a small girl, also red-headed, who was holding her hand, "Mom, can't I go... “ 
+"Nine and three-quarters!" piped a small girl, also red-headed, who was holding her hand, "Mom, can't I go... 
 
 "You're not old enough, Ginny, now be quiet. All right, Percy, you go first." 
 
@@ -2306,7 +2306,7 @@ Harry looked over at the Slytherin table and saw a horrible ghost sitting there,
 
 "I've never asked," said Nearly Headless Nick delicately. 
 
-When everyone had eaten as much as they could, the remains of the food faded from the plates, leaving them sparkling clean as before. A moment later the desserts appeared. Blocks of ice cream in every flavor you could think of, apple pies, treacle tarts, chocolate eclairs and jam doughnuts, trifle, strawberries, Jell-O, rice pudding -- “ 
+When everyone had eaten as much as they could, the remains of the food faded from the plates, leaving them sparkling clean as before. A moment later the desserts appeared. Blocks of ice cream in every flavor you could think of, apple pies, treacle tarts, chocolate eclairs and jam doughnuts, trifle, strawberries, Jell-O, rice pudding -- 
 
 As Harry helped himself to a treacle tart, the talk turned to their families. 
 
@@ -3168,7 +3168,7 @@ Their feather rose off the desk and hovered about four feet above their heads.
 
 "Oh, well done!" cried Professor Flitwick, clapping. "Everyone see here, Miss Granger's done it!" 
 
-Ron was in a very bad mood by the end of the class. "It's no wonder no one can stand her," he said to Harry as they pushed their way into the crowded corridor, "she's a nightmare, honestly. “ 
+Ron was in a very bad mood by the end of the class. "It's no wonder no one can stand her," he said to Harry as they pushed their way into the crowded corridor, "she's a nightmare, honestly. 
 
 Someone knocked into Harry as they hurried past him. It was Hermione. 
 
@@ -5148,7 +5148,7 @@ Out on the stone steps, Harry turned to the others.
 
 "Why me?" 
 
-"It's obvious," said Ron. "You can pretend to be waiting for Professor Flitwick, you know." He put on a high voice, "'Oh Professor Flitwick, I'm so worried, I think I got question fourteen b wrong....'“ 
+"It's obvious," said Ron. "You can pretend to be waiting for Professor Flitwick, you know." He put on a high voice, "'Oh Professor Flitwick, I'm so worried, I think I got question fourteen b wrong....' 
 
 "Oh, shut up," said Hermione, but she agreed to go and watch out for Snape. 
 
