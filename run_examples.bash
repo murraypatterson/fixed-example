@@ -38,4 +38,4 @@ grep --color -Eo "and" HarryPotter.txt | wc -l
 echo "8."
 python3 find.py match "^The" HarryPotter.txt | wc -l
 echo "8. w/ grep"
-grep --color -Ea "^The" HarryPotter.txt | wc -l
+grep --color -E "^The" HarryPotter.txt | wc -l
